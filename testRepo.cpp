@@ -62,5 +62,6 @@ int main() {
     cout << "Goodbye!" << endl;
     cout << "Editing on experimental branch" << endl;
     cout << "Editing on Master branch" << endl;
+    cout << "After merge edit" << endl;
     return 0;
 }
